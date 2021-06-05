@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ravindra Babu Neralla</title>
+    <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/</link>
+    <description>Recent content in Projects on Ravindra Babu Neralla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 May 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Telecom Customer Churn Prediction</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-1/</link>
+      <pubDate>Tue, 01 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-1/</guid>
+      <description>Customer churn is a major problem and one of the most important concern for every company. Retaining an existing customer is many times more effective than gaining new customers. Companies usually have a greater focus on customer acquisition and keep retention as a secondary priority. However, it can cost five times more to attract a new customer than it does to retain an existing one. Increasing customer retention rates by 5% can increase profits by 25% to 95%, according to research done by Bain &amp;amp; Company.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Mental Health Prediction</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-2/</guid>
+      <description>COVID-19 pandemic impacted lives of people around the world. Many of us are facing challenges that can be stressful, overwhelming and cause strong emotions in adults and children. Public health actions, such as social distancing, are necessary to reduce the spread of COVID-19, but they can make us feel isolated and lonely and can increase stress and anxiety. Increased stress causes worsening mental health conditions. As the COVID-19 pandemic enters its second year, new fast-spreading variants have caused a surge in infections in many countries, and renewed lockdowns.</description>
+    </item>
+    
+    <item>
+      <title>Project III: Credit Card Fraud Transaction Detection</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-3/</link>
+      <pubDate>Tue, 20 Apr 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-3/</guid>
+      <description>Most of the people around the world are restricted to home due to COVID-19 pandemic, resulted in more online activities like buying regular groceries also shifted to online. Fraudsters taking this as an opportunity to steal credit card information and do more crime, resulted in online credit card fraud to soar to a whopping $32 billion in year 2020. Surprisingly, this amount is superior to profits posted by some of the blue chip companies in 2017, such as as Coca-Cola ($2 billions), Warren Buffet’s Berkshire Hathaway ($24 billions) and JP Morgan Chase ($23.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Loan Approval Prediction</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Mar 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-4/</guid>
+      <description>In financial industry, deciding on a loan application, whether to approve or not is a two-edged sword. Bank should not lose business by denying a legitimate customer, who can repay. Also, it should not approve loan to in-eligible customer. Banks are playing important role in challenging times like now, with COVID pandemic across the globe.
+Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project V: Chicago Crime Data Analysis</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-5/</link>
+      <pubDate>Mon, 15 Feb 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-5/</guid>
+      <description>This project involves analyzing Chicago crime data for the year 2019 with respect to weather and holidays. One of the major difficulties I found while in this project is on getting holidays data into python from website. I could not get the required the data using web scraping, put some extra effort to learn on how to identify the required data and capture into data frame. Chicago weather data is sourced using weather API.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Data Visualization- Airline Safety</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-6/</link>
+      <pubDate>Sat, 13 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-6/</guid>
+      <description>Presenting data to audience is quite different from designing visuals, while presenting data I felt like we should start with an interest fact on the topic we are going to present, so I started with evolution in transportation to set the audience to common ground. Later started with recent auto vs plane crashes by talking about recent Texas road accident and Malaysian and Indonesian airline accidents. Next step is talking about the charts and visuals prepared to explain the core objective by numbers</description>
+    </item>
+    
+    <item>
+      <title>Project VII: Introduction to Python Programming</title>
+      <link>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-7/</link>
+      <pubDate>Thu, 11 Feb 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://rneralla1.github.io/Ravindra_Neralla_Portfolio/post/chapter-7/</guid>
+      <description>This project work includes work done in DSC-510, introduction to Python Programming.
+Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
